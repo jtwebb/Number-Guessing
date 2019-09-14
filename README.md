@@ -1,5 +1,4 @@
 # Number Guessing
-================
 
 This program uses Python3
 
